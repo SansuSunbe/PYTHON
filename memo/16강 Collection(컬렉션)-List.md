@@ -127,7 +127,7 @@ for in range(len)(list명)) :
 
 ```python
 for i in list명 : 
-				i # 리스트이 각 요소
+				i # 리스트의 각 요소
 ```
 
 # 값의 유무 확인
